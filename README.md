@@ -1,7 +1,9 @@
 # It’s a Bird, Not a Plane: Automated Multi-Hummingbird Tracking in Videos
 
 Grace Liu (COS IW 08: CV for Social Good, Spring 2025)
+
 Advisors: Olga Russakovsky, Sarah Solie
+
 Supported by the Stoddard Lab at Princeton.
 
 ## Procedure
